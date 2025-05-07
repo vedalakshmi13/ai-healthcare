@@ -28,6 +28,7 @@ def predict_heart_disease(*input_data):
             except ValueError:
                 raise ValueError(f"Expected a numeric value for feature '{feature_name}', got '{val}'")
 
+# return result
     input_scaled = scaler.transform([encoded_input])
     prediction = model.predict(input_scaled)[0]
 
