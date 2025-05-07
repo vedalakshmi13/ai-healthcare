@@ -1,0 +1,2 @@
+Age,"Sex (1=Male, 0=Female)",Chest Pain Type,Resting Blood Pressure,Cholesterol,Fasting Blood Sugar > 120 mg/dl,Resting ECG,Max Heart Rate Achieved,Exercise Induced Angina,Oldpeak (ST depression),Slope of Peak Exercise ST Segment,Number of Major Vessels Colored (0-3),"Thalassemia (0=unknown, 1=normal, 2=fixed, 3=reversible)",output,timestamp
+55,1,1,130,250,0,1,150,0,1.4,1,0,3,,2025-05-07 00:53:32.894239
